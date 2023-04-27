@@ -259,6 +259,7 @@ body {
 
 .project__title:hover {
   color: var(--purple);
+  opacity: 0.8;
 }
 
 /* ========= PROJECT PAGE ========== */
